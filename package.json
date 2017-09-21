@@ -1,0 +1,25 @@
+{
+  "name": "workshopsass",
+  "version": "1.0.0",
+  "description": "Sass basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katunein/workshopsass.git"
+  },
+  "author": "Marco Gallardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katunein/workshopsass/issues"
+  },
+  "homepage": "https://github.com/katunein/workshopsass#readme",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

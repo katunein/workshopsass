@@ -1,0 +1,11 @@
+
+@mixin border {
+	border: solid 1px #CCC;
+	border-radius: 5px;
+}
+
+@mixin padding($values...) {    
+    @each $var in $values {
+        padding: #{$var};
+    }
+}
